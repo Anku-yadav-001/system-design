@@ -13,3 +13,5 @@
 ==> Decoupling
 ==> logging and matrix
 ==> extensible
+==> cascading failure
+==> capacity estimation

@@ -24,3 +24,30 @@ horizontal - increasing the machines(BUY MORE MACHINE)
  - data inconsistency
  - scales well
 
+## Capacity estimation
+capacity estimation in system design is a process to predicting and determining the maximum load that the machine can handle within the operation parameters.
+
+analyzing various aspects
+ - hardware capability 
+ - software performance
+ - network bandwidth
+ - user behavior
+
+factors that affects capacity estimation
+ - hardware resources
+ - software efficiency
+ - workload
+ - user behaviour
+ - scalability 
+ - performance metrics
+ - failure scenarios
+
+matrics for capacity estimation
+ - daily active users(DAU)
+ - queries per second(QPS)
+ - storage requirement
+ - error rates
+ - response time
+ - concurrency
+ - peak load handling
+ 
