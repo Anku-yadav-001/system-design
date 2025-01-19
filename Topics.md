@@ -15,3 +15,13 @@
 ==> extensible
 ==> cascading failure
 ==> capacity estimation
+==> Http
+==> Https
+==> TCP stack
+==> relational database
+==> what happens when we search something on browser
+==> database indexes
+==> nosql db
+==> horizontal and vertical partitioning
+==> cassandra
+==> quorum
