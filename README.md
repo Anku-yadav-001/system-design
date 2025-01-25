@@ -105,3 +105,24 @@ SELECT * FROM table_name WHERE sort_id LIKE "india+gender%"
  -  minimum number of replicates that must be respond to a read or write operation for that operation to be considered successfully.
 
  - quroum is calculated as `(replication factor+1)/2`
+
+## Cache
+it is a small fast memory that store frequent accessed instructions or data 
+- CATCH HIT - if we get the memory reference in cache momory
+- CATCH MISS - if we not get the memory reference in cache memory
+
+HIT RATIO = hit/hit+miss
+
+## Thrashing
+when we assign multiple processes to the CPU for execution , so the CPU may not work properly or down or reaches to 0 so that process is known is thrashing
+
+we can minimize thrashing using priprity relpacement algorithm
+
+## Thread, process and program
+- thread - it is a basic unit of execution
+- program - it is a set of instructions
+- process - program is in execution known as process
+
+## Types of process
+- I/O bound process - if the process/program invest more time to doing its I/O process then it is known as I/O bound process
+- CPU bound process - if the process/program invest more time to doing its CPU operations then it is known as CPU bound process.

@@ -25,3 +25,6 @@
 - horizontal and vertical partitioning
 - cassandra
 - quorum
+- cache
+- thrashing
+- thread, process and program
