@@ -28,3 +28,7 @@
 - cache
 - thrashing
 - thread, process and program
+- load balancing
+- consistent hashing
+- memcaching
+- sharding
